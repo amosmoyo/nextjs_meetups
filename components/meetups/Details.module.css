@@ -1,0 +1,13 @@
+.details {
+    background-color: #fff;
+    text-align: center;
+}
+.details img {
+    width: 100%;
+}
+
+.details .data {
+    text-align: center;
+    background-color: #999;
+    margin-top: 5px;
+}
